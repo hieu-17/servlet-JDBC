@@ -1,0 +1,15 @@
+com\example\dao\impl\NewDAO.class
+com\example\model\UserModel.class
+com\example\controller\web\HomeController.class
+com\example\dao\ICategoryDAO.class
+com\example\model\RoleModel.class
+com\example\dao\impl\CategoryDAO.class
+com\example\dao\INewDAO.class
+com\example\model\CategoryModel.class
+com\example\model\AbstractModel.class
+com\example\service\INewService.class
+com\example\model\NewModel.class
+com\example\service\ICategoryService.class
+com\example\service\impl\CategoryService.class
+com\example\controller\admin\HomeController.class
+com\example\service\impl\NewService.class
